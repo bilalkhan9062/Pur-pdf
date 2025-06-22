@@ -30,8 +30,6 @@ flutter:
   name: PurePDF
   description: Clean PDF Reader
 
-# Android specific configuration
-flutter:
   android:
     min_sdk_version: 21
     target_sdk_version: 34
